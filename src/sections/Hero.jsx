@@ -7,7 +7,7 @@ import { useMediaQuery } from "react-responsive"
 import Target from "../components/Target"
 import ReactLogo from "../components/ReactLogo"
 import Cube from "../components/Cube"
-import Rings from "../components/rings"
+import Rings from '../components/Rings'
 import HeroCamera from "../components/HeroCamera"
 import Button from "../components/Button"
 import {useTypewriter, Cursor} from "react-simple-typewriter"
